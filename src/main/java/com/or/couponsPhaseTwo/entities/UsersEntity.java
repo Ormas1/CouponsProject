@@ -31,7 +31,7 @@ public class UsersEntity {
 
     @Column(name = "type")
     private Type type;
-//Nadav is the Chef
+//Nadav is the Chef..
     public UsersEntity() {
     }
 
