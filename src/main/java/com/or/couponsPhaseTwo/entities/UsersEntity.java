@@ -23,6 +23,7 @@ public class UsersEntity {
     @Column(name = "firstName")
     private String firstName;
 
+
     @Column(name = "lastName")
     private String lastName;
 
